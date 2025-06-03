@@ -1,1 +1,5 @@
-print :{fffdww}
+int main() {
+printf("feuyfue");
+}
+
+
